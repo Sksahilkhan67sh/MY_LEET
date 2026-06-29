@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0031-next-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
