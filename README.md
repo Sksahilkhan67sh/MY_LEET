@@ -16,6 +16,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 ## Stack
 |  |
@@ -80,4 +82,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
