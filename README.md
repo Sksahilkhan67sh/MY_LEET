@@ -57,6 +57,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -99,4 +100,12 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
