@@ -12,6 +12,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0041-first-missing-positive) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,10 +72,12 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
