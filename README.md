@@ -13,6 +13,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,6 +84,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +108,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +117,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -139,4 +146,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
