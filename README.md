@@ -177,5 +177,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1291-sequential-digits) |
 | [3713-longest-balanced-substring-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
