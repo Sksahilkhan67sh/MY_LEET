@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0050-powx-n) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
