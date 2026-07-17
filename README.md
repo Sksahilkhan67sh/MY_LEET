@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
