@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
