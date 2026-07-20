@@ -132,6 +132,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0050-powx-n) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
