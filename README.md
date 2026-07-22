@@ -99,6 +99,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2685-count-the-number-of-complete-components) |
@@ -180,6 +181,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -187,6 +189,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
