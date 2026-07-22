@@ -19,6 +19,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
@@ -36,6 +37,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -86,6 +88,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -203,6 +206,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
