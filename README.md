@@ -16,6 +16,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -175,6 +176,7 @@
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -221,12 +223,14 @@
 | [0401-binary-watch](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
