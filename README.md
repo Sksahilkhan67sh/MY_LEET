@@ -67,6 +67,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -233,6 +234,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
