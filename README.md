@@ -42,6 +42,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Combinatorics
 |  |
 | ------- |
