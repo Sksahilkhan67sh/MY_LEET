@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3310-remove-methods-from-project) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
+| [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
