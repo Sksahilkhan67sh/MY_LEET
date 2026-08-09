@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
@@ -78,6 +79,7 @@
 | [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -195,6 +197,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -276,6 +279,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -363,14 +367,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
