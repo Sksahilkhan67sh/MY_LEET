@@ -83,6 +83,7 @@
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -201,6 +202,7 @@
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -372,18 +374,29 @@
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
