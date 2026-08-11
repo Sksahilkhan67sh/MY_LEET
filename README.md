@@ -29,6 +29,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
@@ -116,6 +117,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -260,6 +262,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
