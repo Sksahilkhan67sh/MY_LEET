@@ -30,6 +30,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -197,6 +198,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -297,6 +299,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
