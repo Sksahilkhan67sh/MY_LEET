@@ -38,6 +38,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
@@ -267,6 +268,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
