@@ -32,6 +32,7 @@
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -242,6 +243,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -294,6 +296,7 @@
 | [1260-shift-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2069-walking-robot-simulation-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
