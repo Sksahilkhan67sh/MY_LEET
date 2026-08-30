@@ -35,6 +35,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
@@ -323,6 +324,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
