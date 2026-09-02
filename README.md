@@ -70,6 +70,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -187,6 +188,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3875-construct-uniform-parity-array-i) |
