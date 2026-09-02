@@ -28,6 +28,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
@@ -337,6 +338,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1927-sum-game) |
@@ -365,6 +367,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
