@@ -40,6 +40,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -136,6 +137,7 @@
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
