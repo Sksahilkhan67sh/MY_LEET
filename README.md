@@ -76,6 +76,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -418,6 +419,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
