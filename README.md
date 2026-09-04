@@ -21,6 +21,7 @@
 | [1260-shift-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1386-cinema-seat-allocation) |
@@ -222,6 +223,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2685-count-the-number-of-complete-components) |
@@ -232,6 +234,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
 | [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3310-remove-methods-from-project) |
