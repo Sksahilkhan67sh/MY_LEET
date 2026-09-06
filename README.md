@@ -87,6 +87,7 @@
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -129,6 +130,7 @@
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
