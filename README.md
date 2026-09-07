@@ -41,6 +41,7 @@
 | [2029-stone-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -166,6 +167,7 @@
 | [0031-next-permutation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3643-flip-square-submatrix-vertically) |
@@ -180,6 +182,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -216,6 +219,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
