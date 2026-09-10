@@ -94,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -591,6 +592,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Design
 |  |
