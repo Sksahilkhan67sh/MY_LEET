@@ -74,6 +74,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
@@ -157,6 +158,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3660-jump-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
 | ------- |
