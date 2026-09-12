@@ -60,6 +60,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -158,6 +159,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3660-jump-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3660-jump-game-ix) |
@@ -233,6 +235,7 @@
 | [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -418,6 +421,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
