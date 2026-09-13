@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
+| [0396-rotate-function](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
@@ -144,6 +145,7 @@
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0115-distinct-subsequences) |
+| [0396-rotate-function](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0940-distinct-subsequences-ii) |
@@ -326,6 +328,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0050-powx-n) |
+| [0396-rotate-function](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
