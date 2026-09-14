@@ -60,6 +60,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -238,6 +239,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -493,6 +495,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
@@ -612,6 +615,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3161-block-placement-queries) |
 ## String Matching
 |  |
 | ------- |
@@ -630,4 +634,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
