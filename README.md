@@ -113,6 +113,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -158,6 +159,7 @@
 | [1563-stone-game-v](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -469,6 +472,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
+| [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
