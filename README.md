@@ -117,6 +117,7 @@
 | [1927-sum-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -159,6 +160,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -182,6 +184,7 @@
 | [0031-next-permutation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -399,6 +402,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2126-destroying-asteroids) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
