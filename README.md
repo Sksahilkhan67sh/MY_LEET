@@ -158,6 +158,7 @@
 | [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
@@ -346,6 +347,7 @@
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -563,6 +566,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3518-smallest-palindromic-rearrangement-ii) |
