@@ -180,6 +180,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3660-jump-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -561,6 +563,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
