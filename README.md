@@ -31,6 +31,7 @@
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -277,6 +278,7 @@
 | [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -290,6 +292,7 @@
 | [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3310-remove-methods-from-project) |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
@@ -328,6 +332,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
