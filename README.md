@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
