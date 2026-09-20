@@ -42,6 +42,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -405,6 +406,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2069-walking-robot-simulation-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
