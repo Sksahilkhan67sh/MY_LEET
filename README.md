@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0877-stone-game) |
@@ -195,6 +196,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1441-build-an-array-with-stack-operations) |
