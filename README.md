@@ -29,6 +29,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1406-stone-game-iii) |
+| [1470-shuffle-the-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
