@@ -97,6 +97,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3875-construct-uniform-parity-array-i) |
@@ -189,6 +190,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3660-jump-game-ix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3660-jump-game-ix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -360,6 +362,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
