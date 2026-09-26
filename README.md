@@ -119,6 +119,7 @@
 | [0796-rotate-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -205,6 +206,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1386-cinema-seat-allocation) |
@@ -313,6 +316,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
 | [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -479,6 +483,7 @@
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -614,6 +619,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
