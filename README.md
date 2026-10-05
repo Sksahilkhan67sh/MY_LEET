@@ -120,6 +120,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
@@ -215,6 +216,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -737,6 +739,7 @@
 | [0020-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
