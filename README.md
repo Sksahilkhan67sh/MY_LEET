@@ -117,6 +117,7 @@
 | [0044-wildcard-matching](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0796-rotate-string) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1306-jump-game-iii) |
@@ -640,6 +642,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
