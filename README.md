@@ -64,6 +64,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -628,6 +629,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sksahilkhan67sh/MY_LEET/tree/master/3499-maximize-active-section-with-trade-i) |
